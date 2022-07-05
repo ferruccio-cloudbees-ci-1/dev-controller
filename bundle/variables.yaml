@@ -1,0 +1,4 @@
+variables:
+- team: ferruccio-cloudbees-ci-1
+- admin-user: ferrucciobongianni-admin
+- manager-user: ferrucciobongianni
